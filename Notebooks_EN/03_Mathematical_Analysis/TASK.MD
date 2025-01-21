@@ -59,7 +59,7 @@ $$
 
 ### Calculate the area under the sine curve over the interval $[0, \pi]$
 
-We are tasked with solving the following integral:
+We want to calculate the following integral:
 
 $$
 P = \int_0^\pi \sin(x) \, dx
@@ -67,7 +67,7 @@ $$
 
 #### Step-by-step Solution:
 
-1. **Find the Integral of $\sin(x)$:**
+1. **Integral of $\sin(x)$:**
 
    The integral of $\sin(x)$ is $-\cos(x)$, because:
 
@@ -77,13 +77,13 @@ $$
 
 2. **Evaluate the Integral over the Interval $[0, \pi]$:**
 
-   Now we evaluate $-\cos(x)$ at the limits of integration, which are 0 and $\pi$:
+   Now, we evaluate $-\cos(x)$ at the upper and lower limits, which are 0 and $\pi$:
 
    $$
    P = \left[ -\cos(x) \right]_0^\pi
    $$
 
-   This means we will substitute the upper and lower bounds into the expression $-\cos(x)$:
+   Substituting the limits into $-\cos(x)$:
 
    $$
    P = -\cos(\pi) + \cos(0)
@@ -94,7 +94,7 @@ $$
    - $\cos(\pi) = -1$
    - $\cos(0) = 1$
 
-   Substituting these values into the equation:
+   Substituting these values:
 
    $$
    P = -(-1) + 1 = 1 + 1 = 2
