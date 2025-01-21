@@ -89,14 +89,20 @@ $$
 
 Integral of $ \int x \ln(x) , dx $
 Using integration by parts, let $ u = \ln(x) $ and $ dv = x , dx $:
+
 $$
+
 \int x \ln(x) , dx = \frac{x^2}{2} \ln(x) - \frac{1}{4}x^2 + C
+
 $$
 
 ---
 
 Integral of $ \int x e^x , dx $
 Using integration by parts, let $ u = x $ and $ dv = e^x , dx $:
+
 $$
+
 \int x e^x , dx = e^x(x - 1) + C
+
 $$
