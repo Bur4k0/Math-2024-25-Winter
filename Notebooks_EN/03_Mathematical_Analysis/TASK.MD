@@ -57,3 +57,58 @@ $$
 ![alt text](image-1.png)
 ---
 
+
+### Calculate the area under the sine curve over the interval $[0, \pi]$
+
+We are tasked with solving the following integral:
+
+$$
+P = \int_0^\pi \sin(x) \, dx
+$$
+
+#### Step-by-step Solution:
+
+1. **Find the Integral of $\sin(x)$:**
+
+   The integral of $\sin(x)$ is $-\cos(x)$, because:
+
+   $$
+   \int \sin(x) \, dx = -\cos(x)
+   $$
+
+2. **Evaluate the Integral over the Interval $[0, \pi]$:**
+
+   Now we evaluate $-\cos(x)$ at the limits of integration, which are 0 and $\pi$:
+
+   $$
+   P = \left[ -\cos(x) \right]_0^\pi
+   $$
+
+   This means we will substitute the upper and lower bounds into the expression $-\cos(x)$:
+
+   $$
+   P = -\cos(\pi) + \cos(0)
+   $$
+
+3. **Simplify the Expression:**
+
+   - $\cos(\pi) = -1$
+   - $\cos(0) = 1$
+
+   Substituting these values into the equation:
+
+   $$
+   P = -(-1) + 1 = 1 + 1 = 2
+   $$
+
+### Final Result:
+
+The area under the sine curve over the interval $[0, \pi]$ is:
+
+$$
+P = 2
+$$
+
+Thus, the area under $\sin(x)$ from 0 to $\pi$ is 2.
+
+
