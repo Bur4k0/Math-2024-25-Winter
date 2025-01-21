@@ -57,7 +57,6 @@ $$
 ![alt text](image-1.png)
 ---
 
-
 ### Calculate the area under the sine curve over the interval $[0, \pi]$
 
 We are tasked with solving the following integral:
