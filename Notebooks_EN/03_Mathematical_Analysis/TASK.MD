@@ -54,5 +54,6 @@ $$
 I_2 = \frac{\pi^3}{3}
 $$
 
+![alt text](image-1.png)
 ---
 
