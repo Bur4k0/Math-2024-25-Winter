@@ -110,5 +110,3 @@ P = 2
 $$
 
 Thus, the area under $\sin(x)$ from 0 to $\pi$ is 2.
-
-
