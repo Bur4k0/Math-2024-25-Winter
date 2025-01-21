@@ -26,6 +26,7 @@ $$
 I_1 = \pi^2 + \pi
 $$
 
+![alt text](image.png)
 ---
 
 ### 2. Compute the integral of $g(x) = x^2$ over the interval $[0, \pi]$
