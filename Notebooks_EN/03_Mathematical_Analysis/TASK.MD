@@ -61,9 +61,7 @@ $$
 
 We want to calculate the following integral:
 
-$$
-P = \int_0^\pi \sin(x) \, dx
-$$
+$P = \int_0^\pi \sin(x) \, dx$
 
 #### Step-by-step Solution:
 
@@ -71,23 +69,17 @@ $$
 
    The integral of $\sin(x)$ is $-\cos(x)$, because:
 
-   $$
-   \int \sin(x) \, dx = -\cos(x)
-   $$
+   $\int \sin(x) \, dx = -\cos(x)$
 
 2. **Evaluate the Integral over the Interval $[0, \pi]$:**
 
    Now, we evaluate $-\cos(x)$ at the upper and lower limits, which are 0 and $\pi$:
 
-   $$
-   P = \left[ -\cos(x) \right]_0^\pi
-   $$
+   $P = \left[ -\cos(x) \right]_0^\pi$
 
    Substituting the limits into $-\cos(x)$:
 
-   $$
-   P = -\cos(\pi) + \cos(0)
-   $$
+   $P = -\cos(\pi) + \cos(0)$
 
 3. **Simplify the Expression:**
 
@@ -96,16 +88,12 @@ $$
 
    Substituting these values:
 
-   $$
-   P = -(-1) + 1 = 1 + 1 = 2
-   $$
+   $P = -(-1) + 1 = 1 + 1 = 2$
 
 ### Final Result:
 
 The area under the sine curve over the interval $[0, \pi]$ is:
 
-$$
-P = 2
-$$
+$P = 2$
 
 Thus, the area under $\sin(x)$ from 0 to $\pi$ is 2.
