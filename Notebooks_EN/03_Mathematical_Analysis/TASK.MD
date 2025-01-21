@@ -97,3 +97,5 @@ The area under the sine curve over the interval $[0, \pi]$ is:
 $P = 2$
 
 Thus, the area under $\sin(x)$ from 0 to $\pi$ is 2.
+
+![alt text](image-2.png)
